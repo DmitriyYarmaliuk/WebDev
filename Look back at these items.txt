@@ -1,0 +1,2 @@
+- Redoing the YELP app using the latest version of bootsrap
+https://www.youtube.com/watch?v=NHHh0sj1uKY
